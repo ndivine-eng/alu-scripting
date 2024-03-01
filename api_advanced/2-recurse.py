@@ -1,4 +1,5 @@
-pt that fetch all hot post for a given subreddit with recursive call."""
+#!/usr/bin/python3
+"""Script that fetch all hot post for a given subreddit with recursive call."""
 
 import requests
 

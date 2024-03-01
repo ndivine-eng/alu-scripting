@@ -1,4 +1,5 @@
-cript that counts the number of occurrences of list of words
+#!/usr/bin/python3
+"""A script that counts the number of occurrences of list of words
 in a given subreddit."""
 
 from audioop import reverse
